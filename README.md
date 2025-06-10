@@ -1,6 +1,6 @@
 # The Value-Added Theory: A Unified Framework for Historical Evolution and National Competition
 
-**Author:** zhangwei(hemono@gmail.com)
+**Author:** Zhang Wei (@Hemono)
 
 **Version/Date:** Final Draft V5.0 / June 11, 2025
 
@@ -9,9 +9,7 @@
 
 ---
 
-## Volume I: Reinterpreting Chinese History with Value-Added Logic: The Millennial Rise, Fall, and Future of an Eastern Civilization
-
-> **Core Mission:** To propose the core concepts of the "Value-Added Theory" and to verify its explanatory power by applying it to the comprehensive case study of Chinese history, revealing the underlying logic of its dynastic cycles and modern transformation.
+## Volume I: Reinterpreting Chinese History with Value-Added Logic: A Millennial Saga of an Eastern Civilization
 
 ### Table of Contents
 
@@ -30,7 +28,7 @@
 1.5. The Value-Added Impulse and Institutional Adaptation
 
 #### **Chapter 2: Value-Added in Chinese History and the Internal Circulation Trap**
-2.1. From Qin/Han to Sui/Tang: The Institutional Dividend and Value-Added Window from Unification
+2.1. From Qin/Han to Sui/Tang: The Institutional Dividend from Unification
 2.2. The Song Dynasty: A Value-Added Cycle of Active Markets and Technological Innovation
 2.3. The Closed Nature of the Ming-Qing Internal Circulation and Its Consequences
 2.4. Three Major Events that Interrupted Endogenous Evolution: The Mongol Conquest, the Manchu Conquest, and the Chinese Civil War
@@ -101,7 +99,7 @@
     * 4.2.2. **Hubs and Enclaves** -> The Geographic Value Maximization of Dubai/Singapore
     * 4.2.3. **Technological Niche** -> The Taiwan Chip Model & The Israel Tech Model
     * 4.2.4. **A Nation's Two Strategies** -> Malaysia's "Imitation Trap" and "Pragmatic Breakthrough"
-* 4.3. Implications for the Global South: How to Escape the "Dual Trap"
+4.3. Implications for the Global South: How to Escape the "Dual Trap"
 
 #### **Chapter 5: Axioms for Prosperity: Building a Value-Added Ecosystem with the "Four Pillars"**
 5.1. The Cornerstone: Rule of Law First
@@ -109,21 +107,4 @@
 5.3. The Engine: Global Demand
 5.4. Evolutionary Capability: Achieving an Innovation-Driven State through "Creative Destruction"
 
-#### **Chapter 6: The Endgame of National Competition: The Strategic Shaping of Monopolistic Value-Added Advantage**
-6.1. First Principle: Scarcity is the Primary Competitive Advantage
-6.2. Types and Construction of Monopolistic Advantage
-6.3. The Decline of Advantage and the "Performance Legitimacy" Crisis
-6.4. The Art of the Dynamic Leap: From Performance Legitimacy Crisis to Institutional Resilience
-
-#### **Chapter 7: The Eternal Road of "Value-Added" and "Liberation"**
-7.1. The Perpetual Motion Machine of Value-Added: Infinite Desire and Infinite Innovation
-7.2. The Asymptote of Liberation: How Objective Reality Limits Subjective Imagination
-7.3. The Ladder of Liberation: From the "Industrial Fetter" to the "Information Cage"
-7.4. The "Value-Added" View of Fairness: The Institutional Guarantee for "Positive-Sum Games"
-7.5. The Dissolution of "Utopia": Why There Is No End of History
-7.6. The "Fetter" of the Welfare State: The Eternal Tension between Security and Vitality
-7.7. The Ultimate Benevolence of Global Competition: Why There Are No Real Losers
-
-#### **Conclusion: The Compass for an Endless Voyage**
-* A Review of the Book's Core Theory: An Analytical Framework that Runs Through Everything
-* Thinking Toward the Future: Building Dynamic Advantages in Eternal Competition
+#### **Chapter 6: The
